@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//ericjunkins.github.io/personal-site/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/https//ericjunkins.github.io/personal-site/static/js/main.98ed3fa3.chunk.js",
+    "main.js.map": "/https//ericjunkins.github.io/personal-site/static/js/main.98ed3fa3.chunk.js.map",
+    "runtime-main.js": "/https//ericjunkins.github.io/personal-site/static/js/runtime-main.ac07d36f.js",
+    "runtime-main.js.map": "/https//ericjunkins.github.io/personal-site/static/js/runtime-main.ac07d36f.js.map",
+    "static/js/2.078bf4b6.chunk.js": "/https//ericjunkins.github.io/personal-site/static/js/2.078bf4b6.chunk.js",
+    "static/js/2.078bf4b6.chunk.js.map": "/https//ericjunkins.github.io/personal-site/static/js/2.078bf4b6.chunk.js.map",
+    "static/js/3.cce5492c.chunk.js": "/https//ericjunkins.github.io/personal-site/static/js/3.cce5492c.chunk.js",
+    "static/js/3.cce5492c.chunk.js.map": "/https//ericjunkins.github.io/personal-site/static/js/3.cce5492c.chunk.js.map",
+    "index.html": "/https//ericjunkins.github.io/personal-site/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/https//ericjunkins.github.io/personal-site/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.078bf4b6.chunk.js.LICENSE.txt": "/https//ericjunkins.github.io/personal-site/static/js/2.078bf4b6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//ericjunkins.github.io/personal-site/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac07d36f.js",
+    "static/js/2.078bf4b6.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.98ed3fa3.chunk.js"
+  ]
+}
